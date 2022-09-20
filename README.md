@@ -1,5 +1,5 @@
 # enclayve device API
-This is the home for app and web developers seeking to utilize an enclayve device.<BR>
+This is the home for app and web developers seeking to utilize an enclayve device.
 There are currently two device configurations:
 <BR>   - Crypto Wallet
 <BR>   - Private Social Media
